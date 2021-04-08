@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "## Full-stack application? Count me in!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEI-ATL-3-8/weather-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEI-ATL-3-8/weather-app/issues"
+  },
+  "homepage": "https://github.com/SEI-ATL-3-8/weather-app#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "weather",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "weather",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "weather",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
